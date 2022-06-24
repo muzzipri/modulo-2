@@ -1,0 +1,13 @@
+.card{
+    
+    border-left: 4px solid #0e1cdd;
+    margin: 5px;
+     width:  300px;
+     background-color: rgb(210, 236, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+                                                  
